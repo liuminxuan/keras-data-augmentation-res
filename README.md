@@ -1,4 +1,4 @@
-# An Research Of Training Data Augmentation For Deep Learning
+# A Research Of Training Data Augmentation For Deep Learning
 
 ### This is the source code of my graduation thesis.
 
