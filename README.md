@@ -28,7 +28,7 @@ In this paper, I use the training data from < Kaggle: Dogs vs. Cats　dataset >.
 
 ##トレーニングデータ
 
-このペーパーでは、<Kaggle：Dogs vs. Cats dataset>のトレーニングデータを使用する。 しかし、私はその一部を使用した。 詳細については　https：//www.kaggle.com/c/dogs-vs-cats　のURLにアクセスしてください。
+このペーパーでは、<Kaggle：Dogs vs. Cats dataset>のトレーニングデータを使用する。 しかし、私はその一部を使用した。 詳細については　https://www.kaggle.com/c/dogs-vs-cats　のURLにアクセスしてください。
 
 ---
 
@@ -44,5 +44,5 @@ In this paper, I use the training data from < Kaggle: Dogs vs. Cats　dataset >.
 
 ## 训练集
 
-在本论文中， 我使用了< Kaggle: Dogs vs. Cats　dataset > 作为训练集。但是我只是使用了其中的一部分。想了解更多，请访问：https：//www.kaggle.com/c/dogs-vs-cats
+在本论文中， 我使用了< Kaggle: Dogs vs. Cats　dataset > 作为训练集。但是我只是使用了其中的一部分。想了解更多，请访问：https://www.kaggle.com/c/dogs-vs-cats
 
