@@ -26,7 +26,7 @@ In this paper, I use the training data from < Kaggle: Dogs vs. Cats　dataset >.
 - **train.py**：Kerasに基づいたCNNの構築である。 ResNetのコンストラクトを使用して作成した。 これは、ResNetの簡単な構築と見なすことができる。/keras-data-augmentation-res/pyimagesearch/resnet.py　は一緒に構成するものである。
 - **classify.py**：トレーニングされたモデルをテストできる。 テストデータは、exampleという名前のフォルダに保存された。
 
-##トレーニングデータ
+## トレーニングデータ
 
 このペーパーでは、<Kaggle：Dogs vs. Cats dataset>のトレーニングデータを使用する。 しかし、私はその一部を使用した。 詳細については　https://www.kaggle.com/c/dogs-vs-cats　のURLにアクセスしてください。
 
