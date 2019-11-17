@@ -18,9 +18,9 @@ In this paper, I use the training data from < Kaggle: Dogs vs. Cats　dataset >.
 
 # 深層学習のための訓練データ拡張に関する研究
 
-###これは私の卒業論文のソースコードである。
+### これは私の卒業論文のソースコードである。
 
-##コードについて
+## コードについて
 
 - **generate_images.py**：基本的なシフトを行うことで、1つの画像から100枚の画像を生成できる。
 - **train.py**：Kerasに基づいたCNNの構築である。 ResNetのコンストラクトを使用して作成した。 これは、ResNetの簡単な構築と見なすことができる。/keras-data-augmentation-res/pyimagesearch/resnet.py　は一緒に構成するものである。
