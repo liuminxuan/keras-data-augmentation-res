@@ -1,4 +1,4 @@
-# An Research Of Training Data Augmentation For Deep Learning
+# A Research Of Training Data Augmentation For Deep Learning
 
 ### This is the source code of my graduation thesis.
 
@@ -10,7 +10,7 @@
 
 ## training data
 
-In this paper, I use the training data from < Kaggle: Dogs vs. Cats　dataset >. But I just usesd a part of it. If you want to learn more, please visit the URL: https://www.kaggle.com/c/dogs-vs-cats
+In this paper, I use the training data from < Kaggle: Dogs vs. Cats　dataset >. But I just used a part of it. If you want to learn more, please visit the URL: https://www.kaggle.com/c/dogs-vs-cats
  
  
 ---  
@@ -26,7 +26,7 @@ In this paper, I use the training data from < Kaggle: Dogs vs. Cats　dataset >.
 - **train.py**：Kerasに基づいたCNNの構築である。 ResNetのコンストラクトを使用して作成した。 これは、ResNetの簡単な構築と見なすことができる。/keras-data-augmentation-res/pyimagesearch/resnet.py　は一緒に構成するものである。
 - **classify.py**：トレーニングされたモデルをテストできる。 テストデータは、exampleという名前のフォルダに保存された。
 
-## トレーニングデータ
+## 訓練データ
 
 このペーパーでは、<Kaggle：Dogs vs. Cats dataset>のトレーニングデータを使用する。 しかし、私はその一部を使用した。 詳細については　https://www.kaggle.com/c/dogs-vs-cats　のURLにアクセスしてください。
 
