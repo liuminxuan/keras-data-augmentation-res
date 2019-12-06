@@ -8,7 +8,7 @@
 - **train.py**: It is a construction of CNN based on Keras. I used the construct of ResNet to create it. we can regard it as a simplify ResNet construction.It relates to the /keras-data-augmentation-res/pyimagesearch/resnet.py
 - **classify.py**: It can test the model which has been trained. The test data was saved in the fold named example.
 
-## training data
+## Training data
 
 In this paper, I use the training data from < Kaggle: Dogs vs. Cats　dataset >. But I just used a part of it. If you want to learn more, please visit the URL: https://www.kaggle.com/c/dogs-vs-cats
  
@@ -18,17 +18,17 @@ In this paper, I use the training data from < Kaggle: Dogs vs. Cats　dataset >.
 
 # 深層学習のための訓練データ拡張に関する研究
 
-### これは私の卒業論文のソースコードである。
+### これは私の卒業論文のソースコードです。
 
 ## コードについて
 
-- **generate_images.py**：基本的なシフトを行うことで、1つの画像から100枚の画像を生成できる。
-- **train.py**：Kerasに基づいたCNNの構築である。 ResNetのコンストラクトを使用して作成した。 これは、ResNetの簡単な構築と見なすことができる。/keras-data-augmentation-res/pyimagesearch/resnet.py　は一緒に構成するものである。
-- **classify.py**：トレーニングされたモデルをテストできる。 テストデータは、exampleという名前のフォルダに保存された。
+- **generate_images.py**：基本的なシフトを行うことで、1つの画像から100枚の画像を生成できます。
+- **train.py**：Kerasに基づいたCNNの構築です。 ResNetのコンストラクトを使用して作成しました。 これは、ResNetの簡単な構築と見なすことができます。/keras-data-augmentation-res/pyimagesearch/resnet.py　は一緒に構成するものです。
+- **classify.py**：トレーニングされたモデルをテストできます。 テストデータは、exampleという名前のフォルダに保存されました。
 
 ## 訓練データ
 
-このペーパーでは、<Kaggle：Dogs vs. Cats dataset>のトレーニングデータを使用する。 しかし、私はその一部を使用した。 詳細については　https://www.kaggle.com/c/dogs-vs-cats　のURLにアクセスしてください。
+このペーパーでは、<Kaggle：Dogs vs. Cats dataset>のトレーニングデータを使用します。 しかし、私はその一部を使用しました。 詳細については下記のURLにアクセスしてください。　https://www.kaggle.com/c/dogs-vs-cats　
 
 ---
 
