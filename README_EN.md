@@ -12,5 +12,5 @@
 
 In this paper, I use the training data from < Kaggle: Dogs vs. Cats　dataset >. But I just used a part of it. If you want to learn more, please visit the URL: https://www.kaggle.com/c/dogs-vs-cats
  
-## license
+## License
 [MIT](https://choosealicense.com/licenses/mit/) © liuminxuan
