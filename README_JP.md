@@ -11,3 +11,7 @@
 ## 訓練データ
 
 このペーパーでは、<Kaggle：Dogs vs. Cats dataset>のトレーニングデータを使用します。 しかし、私はその一部を使用しました。 詳細については下記のURLにアクセスしてください。　https://www.kaggle.com/c/dogs-vs-cats　
+
+## 使用許可
+
+[MIT](https://choosealicense.com/licenses/mit/) © liuminxuan
