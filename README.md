@@ -1,6 +1,12 @@
-# 关于深度学习中训练数据增广的研究
+
+
 - [English](https://github.com/liuminxuan/keras-data-augmentation-res/blob/master/README_EN.md) 
-- [Japanese](https://github.com/liuminxuan/keras-data-augmentation-res/blob/master/README_JP.md)
+- [Japanese](https://github.com/liuminxuan/keras-data-augmentation-res/blob/master/README_JP.md)  
+
+--- 
+
+# 关于深度学习中训练数据增广的研究  
+
 这是我毕业论文的源代码.
 
 ## 关于代码
