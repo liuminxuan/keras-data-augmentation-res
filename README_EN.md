@@ -1,7 +1,5 @@
 # A Research Of Training Data Augmentation For Deep Learning
 
-### This is the source code of my graduation thesis.
-
 ## About the code
 
 - **generate_images.py**: It can generate 100 pieces of picture from one picture with doing some basic shift on it.
